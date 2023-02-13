@@ -5,7 +5,9 @@ Secuencia de acciones en el pasado
 
 
 afirmativa : Sujeto + verbo en pasado (ed)
+
 negativa: didn`t + verbo en presente
+
 preguntas: Did + sujeto + verbo en presente
 
 palabra clave: when (cuando)
@@ -18,7 +20,9 @@ Acciones de forma simultanea en el pasado.
 Descripciones de sucesos y lugares en el pasado
 
 Afirmativa: Sujeto + was/were + Verbo+ing
+
 negativa: Sujeto + was not/were not + Verbo+ing
+
 pregunta: Was/Were + Sujeto + Verbo+ing
 
 Was = I, He, She, It
@@ -49,7 +53,9 @@ Accion que sucede en el momento
 Acciones simultaneas en el mismo momento
 
 afirmativa: Sujeto + am/is/are + Verbo+ing
+
 negativa: Sujeto + am not/is not/are not + Verbo+ing
+
 preguntas: am/is/are + Sujeto + verbo+ing
 
 Palabras clave: now, right now, at the moment, listen, look
