@@ -68,9 +68,9 @@ are: We, You, They
 
 ### Relativos ###
 
-WHO – THAT : persona
-Which – THAT : objeto
-Whose (cuyo-cuya): Posesión
-Where: Lugares
-When: Momentos
+-WHO – THAT : persona
+-Which – THAT : objeto
+-Whose (cuyo-cuya): Posesión
+-Where: Lugares
+-When: Momentos
 Why: Razones
