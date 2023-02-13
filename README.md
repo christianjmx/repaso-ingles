@@ -73,4 +73,4 @@ are: We, You, They
 -Whose (cuyo-cuya): Posesión
 -Where: Lugares
 -When: Momentos
-Why: Razones
+-Why: Razones
