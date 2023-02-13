@@ -39,7 +39,9 @@ Acciones permanentes en el tiempo.
 Verdades o hecho científicos
 
 afirmativa: Sujeto + Verbo en presente
+
 negativa: Sujeto + don`t/doesn’t + Verbo en presente
+
 pregunta: Do/Does + Sujeto + Verbo en presente
 
 He, She, It = ‘s’, doesn`t, Does
