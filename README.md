@@ -77,5 +77,25 @@ are: We, You, They
 -What(lo que)
 
 
+Vocabulario:
+
+Encender:turn on
+apagar: turn off
+borrar: Erase
+conectar:connect
+teclear: type
+subir: upload
+desplazar: scroll
+hackear: HAck up
+teclaflechas: arow key
+bloqueo mayus: caps lock key
+tecla eliminar: delete key
+teclamayus: shift key
+teclatabulacion: tab key
+punto: full stop
+@: At symbol
+&: ampersand
+guion: hyphen
+guion bajo: Underscore
 
 
